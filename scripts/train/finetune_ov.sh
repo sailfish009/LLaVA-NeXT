@@ -1,3 +1,6 @@
+
+# modify this script to finetune llava model group
+
 export OMP_NUM_THREADS=8
 export NCCL_IB_DISABLE=0
 export NCCL_IB_GID_INDEX=3
